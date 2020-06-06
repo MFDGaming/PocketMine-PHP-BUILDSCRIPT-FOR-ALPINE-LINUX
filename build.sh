@@ -1,4 +1,4 @@
-echo "Please sit back up until the installation is completed..."
+echo "Please sit back up until the compilation & installation is completed..."
 apk update
 apk add make autoconf automake libtool m4 wget musl-utils gzip bzip2 bison g++ git cmake pkgconfig libressl-dev openssl libzip-dev curl-dev readline-dev yaml-dev libpng-dev gmp-dev oniguruma-dev bash --repository=http://dl-cdn.alpinelinux.org/alpine/edge/main
 wget https://www.php.net/distributions/php-7.3.18.tar.gz
