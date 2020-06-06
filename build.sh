@@ -31,3 +31,4 @@ cd yaml-src
 make
 sudo make install
 sed '/\[php\]/a extension=yaml.so' /etc/php/7.3/cli/php.ini
+echo "Installation Completed!"
