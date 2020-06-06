@@ -1,4 +1,4 @@
-# PocketMine-PHP-ALPINE-BUILDSCRIPTS
+# PocketMine-PHP-BUILDSCRIPT-FOR-ALPINE-LINUX
 
 ## Installation
 ```
